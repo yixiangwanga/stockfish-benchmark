@@ -1,7 +1,4 @@
-Questo repository contiene gli script Python sviluppati per la tesi di laurea triennale dal titolo **"Analisi architetturale e valutazione delle prestazioni di Stockfish"**.
-
-**Corso di Laurea:** Ingegneria informatica
-**Anno Accademico:** 2025/2026 
+Questo repository contiene gli script Python per la tesi di laurea triennale dal titolo **"Analisi architetturale e valutazione delle prestazioni di Stockfish"**.
 
 Il codice è suddiviso in tre script principali:
 
